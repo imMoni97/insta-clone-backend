@@ -1,6 +1,7 @@
 This Project provides some basic features,has been developed for learning purposes.
 
 Features :
+
 1.User Authentication : Sign In and Sign Up
 
 2.Image Uploading for creating new Posts
